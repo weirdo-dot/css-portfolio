@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+}
+.port {
+  background-color: pink;
+  width: 984px;
+  height: 2000px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  width: 30px;
+  height: 30px;
+}
+.logo h1 {
+  font-family: cursive;
+  font-size: small;
+}
+nav ul {
+  display: inline-flex;
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+}
+button {
+  background-color: black;
+  color: white;
+}
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+.three img {
+  width: 300px;
+  height: 400px;
+  border-radius: 15px;
+}
+.main button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 10px;
+}
+#About {
+  width: 80%;
+  margin: auto;
+}
+.mae{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.mae h1 {
+  text-align: center;
+}
+.mae p {
+  text-align: center;
+}
+.mae img{
+    width: 300px;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.icons {
+  font-size: 35px;
+}
+.icons i {
+  margin-right: 10px;
+}
+.main {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.four {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Services {
+  width: 80%;
+  margin: auto;
+}
+.five img {
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+}
+.six img {
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+}
+.seven img {
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+}
+#Contact-me {
+  width: 80%;
+  margin: auto;
+}
+.eight h1 {
+  text-align: center;
+}
+.eight p {
+  text-align: center;
+}
+.log {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.tae{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.five{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.csc{
+  text-align: center;
+  justify-content: center;
+}
